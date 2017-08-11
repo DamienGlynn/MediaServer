@@ -1,2 +1,0 @@
-# MediaServer
-Python Media Server
